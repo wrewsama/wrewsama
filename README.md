@@ -12,7 +12,7 @@ In other words, my hobbies are building programs and breaking people.
 
 
 ## Links
-[__My Website__](https://wrewsama.github.io/)
+[__My Website__](https://wrewsama.github.io/) | [__My Resume__](https://drive.google.com/file/d/1MJAO1s1ec08e9yz7NC2GUCtQ4EpYXhnS/view)
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/168340249787760640)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrewlzs512@gmail.com)
