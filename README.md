@@ -1,6 +1,6 @@
 ## Hi! <img src="./img/wave.gif" width="30">
 
-I'm Andrew. I'm currently pursuing a Bachelor's Degree in Computer Science at the National University of Singapore (NUS). My interests include Software Engineering, Database Systems, as well as Artificial Intelligence and Machine Learning.
+I'm Andrew. I'm currently a Computer Science sophomore at the National University of Singapore (NUS) as well as a Software Engineer Intern at Grab. My interests include Software Engineering, Database Systems, as well as Artificial Intelligence and Machine Learning.
 
 Outside of work, I enjoy powerlifting, calisthenics, and Brazillian Jiu Jitsu.
 
@@ -22,7 +22,7 @@ In other words, my hobbies are building programs and breaking people.
 
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wrewsama&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wrewsama&theme=bear&exclude_repo=Chew-sy)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Andrew Lo Zhi Sheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=wrewsama&show_icons=true&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
 
