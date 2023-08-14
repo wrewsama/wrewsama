@@ -1,6 +1,6 @@
 ## Hi! <img src="./img/wave.gif" width="30">
 
-I'm Andrew. I'm currently a Computer Science sophomore at the National University of Singapore (NUS) as well as a Software Engineer Intern at GovTech Singapore. My interests include Software Engineering, Database Systems, as well as Artificial Intelligence and Machine Learning.
+I'm Andrew. I'm currently a Penultimate Year Computer Science student at the National University of Singapore (NUS) as well as a Software Engineer Intern at GovTech Singapore. My interests include Software Engineering, Database Systems, as well as Computer Networks.
 
 Outside of work, I enjoy powerlifting, calisthenics, and Brazillian Jiu Jitsu.
 
