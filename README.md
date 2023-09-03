@@ -4,11 +4,11 @@ I'm Andrew. I'm currently a Penultimate Year Computer Science student at the Nat
 
 Outside of work, I enjoy powerlifting, calisthenics, and Brazillian Jiu Jitsu.
 
-In other words, my hobbies are building programs and breaking people.
+<!-- In other words, my hobbies are building programs and breaking people.
 
 *yoroshiku*
 
-![peko](./img/peko.gif)
+![peko](./img/peko.gif) -->
 
 
 ## Links
@@ -22,10 +22,13 @@ In other words, my hobbies are building programs and breaking people.
 
 
 ## Stats
+[![LeetCode user wrewsama](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fwrewsama&logo=leetcode&logoColor=yellow)](https://leetcode.com/wrewsama/)
+[![LeetCode user wrewsama](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fwrewsama&logo=leetcode&logoColor=yellow)](https://leetcode.com/wrewsama/)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wrewsama&theme=bear&exclude_repo=Chew-sy)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Andrew Lo Zhi Sheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=wrewsama&show_icons=true&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Thanks for stopping by! 🌸🌸🌸
-![miko](./img/miko.gif)
+<!-- ## Thanks for stopping by! 🌸🌸🌸
+![miko](./img/miko.gif) -->
